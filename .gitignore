@@ -1,0 +1,17 @@
+#personal
+/.idea/
+/testing/
+/recordings/
+token
+shark_token
+settings.json
+*.wav
+*.mp3
+
+# IntelliJ
+/out/
+/.idea/
+/src/META-INF/
+*.iml
+*.ipr
+*.iws
